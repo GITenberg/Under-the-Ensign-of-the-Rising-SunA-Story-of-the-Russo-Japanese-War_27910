@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '9699'
     url: http://www.gutenberg.org/2009/agents/9699
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27910#Under-the-Ensign-of-the-Rising-SunA-Story-of-the-Russo-Japanese-War
 gutenberg_issued: '2009-01-27'
 gutenberg_type: Text
 identifiers:

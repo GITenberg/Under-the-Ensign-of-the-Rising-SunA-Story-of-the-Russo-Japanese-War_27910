@@ -1,0 +1,34 @@
+_repo: Under-the-Ensign-of-the-Rising-SunA-Story-of-the-Russo-Japanese-War_27910
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Lumley, Savile
+    deathdate: 1950
+    gutenberg_agent_id: '9929'
+    url: http://www.gutenberg.org/2009/agents/9929
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Collingwood, Harry
+    alias: Lancaster, William Joseph Cosens
+    birthdate: 1851
+    deathdate: 1922
+    gutenberg_agent_id: '9699'
+    url: http://www.gutenberg.org/2009/agents/9699
+description: ''
+gutenberg_issued: '2009-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27910'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Russo-Japanese War, 1904-1905 -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcc 'PR'
+title: 'Under the Ensign of the Rising Sun: A Story of the Russo-Japanese War'
+url: http://www.gutenberg.org/ebooks/27910
